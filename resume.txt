@@ -1,0 +1,49 @@
+ibrahim
+  links to social
+    website
+    github
+    linkedin
+  blurb
+  skills (6)
+  professional experience (3)
+    resilient coders
+    2 pre-coding role
+  education
+    1 current
+    1 pursuing
+    2 certicates in CompTia
+
+shawn
+  links to social
+    website
+    twitter
+    linkedin
+    github
+  blurb
+  skills (a lot)
+  experience  (3)
+    resilient coders
+    freelance
+      points back to things learned at RS
+      mentions of leetcode, hackerrank and codewars
+      2 freelance gigs (local)
+    1 pre-coding role
+  education
+    expected only
+
+me
+  links to social
+    remove email, phone and based in sf
+    add links to website, github and linkedin
+  revise blurb
+  skills
+    revise irrelevant skills like hardware and software
+    software to include - Wireshark, tbd
+    add HTML5, CCS3, Javascript (add more when we get to backend)
+  experience
+    100Devs
+    computer technician at Artesian
+    3d printer operator at Gantri
+  education
+    Graphic Design - city college of san francisco
+    computer science - sf state? (pursuing)
