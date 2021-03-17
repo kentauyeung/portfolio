@@ -3516,13 +3516,13 @@ input, select, textarea {
 			color: rgba(99, 99, 99, 0.25) !important;
 		}
 
-		#main .icon.major {
+		/* #main .icon.major {
 			border-color: #dddddd;
 		}
 
 			#main .icon.major:before {
 				border-color: #dddddd;
-			}
+			} */
 
 		#main .icon.alt {
 			border-color: #dddddd;
@@ -3784,3 +3784,9 @@ input, select, textarea {
 			}
 
 		}
+
+/************************* CUSTOM CODE ************************/
+/* Line 64 */
+#project {
+	width: 100%;
+}
